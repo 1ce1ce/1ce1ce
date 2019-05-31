@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Trirat Tremsuntia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://1ce1ce.github.io/template/images/molly.png",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "084-2445128",
+    "website": "https://1ce1ce.github.io",
+    "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "114/355",
+      "postalCode": "12110",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "1ce1ce",
+        "url": "http://github.com/1ce1ce"
       },
       {
         "network": "linkedin",
