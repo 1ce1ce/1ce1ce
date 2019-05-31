@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Trirat Tremsuntia (ไตรรัตน เติมสันเทียะ)",
+    "name": "Trirat Tremsuntia",
     "label": "Student",
     "picture": "https://1ce1ce.github.io/template/images/molly.png",
     "email": "trirat.tremsuntia.1997@gmail.com",
     "phone": "084-2445128",
     "website": "https://1ce1ce.github.io",
-    "summary": "จบการศึกษาจากมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี คณะวิทยาศาสตร์และเทคโนโลยี สาขาเทคโนโลยีสารสนเทศ",
+    "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
     "location": {
       "address": "114/355",
       "postalCode": "12110",
@@ -42,7 +42,7 @@
       "name": "internet of things",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "Raspberry Pi 3"
       ]
     },
     {
@@ -76,11 +76,10 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Debian"
       ]
     }
   ],
@@ -103,10 +102,12 @@
       "website": "http://www.softsquaregroup.com",
       "startDate": "2018-05-01",
       "endDate": "2018-9-01",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Soft Square Group has been established since 1988. So far we have approximately 400 IT personnel to provide customers full IT support and IT turn-key solution in various kinds of business and industries. For about two decades, our core competitiveness is a high quality software development, technical support and service, and standard package implementation. ",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Drive, design and build student-community projects for UH Manoa",
+        "Build some module in ERP projects"
+        "Build sales order module in projects"
       ]
     },
     {
