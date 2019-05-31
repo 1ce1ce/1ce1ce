@@ -104,8 +104,11 @@
       "endDate": "2018-9-01",
       "summary": "Soft Square Group has been established since 1988. So far we have approximately 400 IT personnel to provide customers full IT support and IT turn-key solution in various kinds of business and industries. For about two decades, our core competitiveness is a high quality software development, technical support and service, and standard package implementation. ",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa",
+        "พัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
+        "Font-end : Angular, Vue, Metarial UI",
+        "Backend: Java, Spring Framwork, C#",
+        "Database: PostgreSQL, Oracle",
+        "Tool: Git, SVN, Eclipse, Visual Studio Code",
         "Build some module in ERP projects"
         "Build sales order module in projects"
       ]
