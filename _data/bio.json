@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Trirat Tremsuntia",
+    "name": "Trirat Tremsuntia (ไตรรัตน เติมสันเทียะ)",
     "label": "Student",
     "picture": "https://1ce1ce.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "trirat.tremsuntia.1997@gmail.com",
     "phone": "084-2445128",
     "website": "https://1ce1ce.github.io",
-    "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
+    "summary": "จบการศึกษาจากมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี คณะวิทยาศาสตร์และเทคโนโลยี สาขาเทคโนโลยีสารสนเทศ",
     "location": {
       "address": "114/355",
       "postalCode": "12110",
       "city": "Honolulu",
-      "countryCode": "USA",
+      "countryCode": "TH",
       "region": "Hawaii"
     },
     "profiles": [
@@ -31,9 +31,9 @@
         "url": "http://twitter.com/changeme"
       },
       {
-        "network": "instagram",
+        "network": "facebook",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://facebook.com/trirat.tremsuntia"
       }
     ]
   },
@@ -46,7 +46,7 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "big data",
       "keywords": [
       ]
     },
@@ -62,11 +62,14 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "PHP",
+        "Python",
+        "MySQL",
+        "PostgreSQL",
+        "NoSQL"
       ]
     },
     {
@@ -83,23 +86,23 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Rajamangala University of Technology Thanyaburi",
+      "area": "Information Technology",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2015-09-01",
+      "endDate": "2018-04-30",
+      "gpa": "3.36",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Soft Square Group Of Company",
       "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "website": "http://www.softsquaregroup.com",
+      "startDate": "2018-05-01",
+      "endDate": "2018-9-01",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
