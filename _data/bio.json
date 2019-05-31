@@ -95,14 +95,14 @@
       ]
     }
   ],
-  "work": [
+  "intership": [
     {
       "company": "Soft Square Group Of Company",
       "position": "Web Developer",
       "website": "http://www.softsquaregroup.com",
       "startDate": "2018-05-01",
       "endDate": "2018-9-01",
-      "summary": "Soft Square Group has been established since 1988. So far we have approximately 400 IT personnel to provide customers full IT support and IT turn-key solution in various kinds of business and industries. For about two decades, our core competitiveness is a high quality software development, technical support and service, and standard package implementation. ",
+      "summary": "รับหน้าที่เป็นโปรแกรมเมอร์ในการพัฒนาพัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
       "highlights": [
         "พัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
         "Font-end : Angular, Vue, Metarial UI",
@@ -113,18 +113,6 @@
         "Build sales order module in projects"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
