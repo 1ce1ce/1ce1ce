@@ -21,11 +21,6 @@
         "url": "http://github.com/1ce1ce"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
@@ -38,6 +33,11 @@
     ]
   },
   "interests": [
+    {
+      "name": "web application",
+      "keywords": [
+      ]
+    },
     {
       "name": "internet of things",
       "keywords": [
@@ -69,7 +69,12 @@
         "Python",
         "MySQL",
         "PostgreSQL",
-        "NoSQL"
+        "NoSQL",
+        "Angular",
+        "Vue",
+        "Meteor",
+        "Laravel",
+        "CodeIgniter"
       ]
     },
     {
@@ -79,6 +84,7 @@
         "Windows",
         "Ubuntu",
         "Git/GitHub",
+        "SVN",
         "Debian"
       ]
     }
@@ -108,11 +114,9 @@
         "Font-end : Angular, Vue, Metarial UI",
         "Backend: Java, Spring Framwork, C#",
         "Database: PostgreSQL, Oracle",
-        "Tool: Git, SVN, Eclipse, Visual Studio Code",
-        "Build some module in ERP projects",
-        "Build sales order module in projects"
+        "Tool: Git, SVN, Eclipse, Visual Studio Code"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
@@ -143,17 +147,48 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Google",
+      "date": "2017",
+      "awarder": "Adwords Search Certification",
+      "summary": "Google Adwords Fundamentals and Search Advertising exams."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Google",
+      "date": "2017",
+      "awarder": "Adwords Video Certification",
+      "summary": "Google Adwords Fundamentals and Video Advertising exams."
+    },
+    {
+      "title": "Huawei",
+      "date": "2018",
+      "awarder": "Huawei ICT Competition Thailand 2018 (Screen Test)",
+      "summary": "Huawei ICT Competition Thailand 2018 รอบคัดเลือกเข้าไป Bootcamp จำนวน 200 คน"
+    },
+    {
+      "title": "Huawei",
+      "date": "2018",
+      "awarder": "Huawei Camp Competition Thailand 2018 - 2019",
+      "summary": "Huawei Camp Competition Thailand 2018 รอบหาตัวแทนประเทศไทย"
+    },
+    {
+      "title": "Certiport",
+      "date": "2018",
+      "awarder": "IC3 / Digital Literacy Certification",
+      "summary": "Key Application / Living Online / Computing Fundamentals"
+    },
+    {
+      "title": "CompTIA",
+      "date": "2018",
+      "awarder": "CompTIA A+ Certification",
+      "summary": "The foundation of your IT career."
+    },
+    {
+      "title": "Soft Square Group Of Company",
+      "date": "2018",
+      "awarder": "Intership Certification",
+      "summary": "Profressional Programer Intership Program."
     }
+
   ],
   "references": [
     {
