@@ -2,15 +2,18 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Online Caption Editor
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Vue.js
+  - MongoDB
+  - Javaascript
+  - Express Framework
+  - Meterial UI
+  - Libjass
+summary: โปรเจคจบการศึกษาของผมได้มีความคิดที่จะสร้างเว็บแอพพลิเคชั่นขึ้นมาจัดการคำบรรยาย โดยรองรับไฟล์คำบรรยายในรูปแบบ .ASS และเพิ่มความรวดเร็วในการทำงานด้วยการทำงานแบบร่วมกัน
 ---
 
 <div class="ui small rounded images">

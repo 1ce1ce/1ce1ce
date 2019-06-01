@@ -8,9 +8,9 @@
     "website": "https://1ce1ce.github.io",
     "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
     "location": {
-      "address": "114/355 จ.ปทุมธานี อ.ธัญบุรี ต.ลำผักกูด หมู่.1",
+      "address": "114/355 อ.ธัญบุรี ต.ลำผักกูด หมู่.1",
       "postalCode": "12110",
-      "city": "",
+      "city": "จ.ปทุมธานี",
       "countryCode": "TH",
       "region": ""
     },
@@ -85,7 +85,9 @@
         "Ubuntu",
         "Git/GitHub",
         "SVN",
-        "Debian"
+        "Debian",
+        "AWS",
+        "GCP"
       ]
     }
   ],
