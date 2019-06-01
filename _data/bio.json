@@ -178,19 +178,22 @@
       "title": "Certiport",
       "date": "2018",
       "awarder": "IC3 / Digital Literacy Certification",
-      "summary": "Key Application / Living Online / Computing Fundamentals"
+      "summary": "Key Application / Living Online / Computing Fundamentals",
+      "image": "IC3-Certification.jpg"
     },
     {
       "title": "CompTIA",
       "date": "2018",
       "awarder": "CompTIA A+ Certification",
-      "summary": "The foundation of your IT career."
+      "summary": "The foundation of your IT career.",
+      "image": "CompTIA-Certification.jpg"
     },
     {
       "title": "Soft Square Group Of Company",
       "date": "2018",
       "awarder": "Intership Certification",
-      "summary": "Profressional Programer Intership Program."
+      "summary": "Profressional Programer Intership Program.",
+      "image": "Intership-Certification.jpg"
     }
 
   ],
