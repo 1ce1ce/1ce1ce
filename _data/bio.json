@@ -150,25 +150,29 @@
       "title": "Google",
       "date": "2017",
       "awarder": "Adwords Search Certification",
-      "summary": "Google Adwords Fundamentals and Search Advertising exams."
+      "summary": "Google Adwords Fundamentals and Search Advertising exams.",
+      "image": "Adwords-Search-Certification.png"
     },
     {
       "title": "Google",
       "date": "2017",
       "awarder": "Adwords Video Certification",
-      "summary": "Google Adwords Fundamentals and Video Advertising exams."
+      "summary": "Google Adwords Fundamentals and Video Advertising exams.",
+      "image": "Adwords-Video-Certification.png"
     },
     {
       "title": "Huawei",
       "date": "2018",
       "awarder": "Huawei ICT Competition Thailand 2018 (Screen Test)",
-      "summary": "Huawei ICT Competition Thailand 2018 รอบคัดเลือกเข้าไป Bootcamp จำนวน 200 คน"
+      "summary": "Huawei ICT Competition Thailand 2018 รอบคัดเลือกเข้าไป Bootcamp จำนวน 200 คน",
+      "image": "Huawei-ICT-Certification.jpg"
     },
     {
       "title": "Huawei",
       "date": "2018",
       "awarder": "Huawei Camp Competition Thailand 2018 - 2019",
-      "summary": "Huawei Camp Competition Thailand 2018 รอบหาตัวแทนประเทศไทย"
+      "summary": "Huawei Camp Competition Thailand 2018 รอบหาตัวแทนประเทศไทย",
+      "image": "Huawei-Camp-Certification.jpg"
     },
     {
       "title": "Certiport",
