@@ -11,6 +11,7 @@ labels:
   - MongoDB
   - Javaascript
   - Express Framework
+  - Socket.io
   - Meterial UI
   - Libjass
 summary: เว็บแอพพลิเคชั่นขึ้นมาจัดการคำบรรยาย โดยรองรับไฟล์คำบรรยายในรูปแบบ .ASS และเพิ่มความรวดเร็วในการทำงานด้วยการทำงานแบบร่วมกัน
