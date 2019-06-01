@@ -14,10 +14,8 @@ summary: สร้างแอพพลิเคชั่นสุ่มรา�
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+แอพสุ่มรายการอาหารเป็นโปรเจคในช่วงผมศึกษาอยู่ชั้นปีที่ 2 โดย หัวขอคือสร้างแอพลิเคชั่นบนโทรศัพท์มือถืออะไรก็ได้ โดยใช้ [MIT App Invertor](https://appinventor.mit.edu/)
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+แอพสุ่มรายการอาหารนี้มีการทำงานโดยการรับการเขย่าจากผู้ใช้งานทุกๆ 5 วินาที เพื่อทำการสุ่มเมนู่อาหารที่เก็บไว้ในฐานข้อมูล โดยฐานข้อมูลที่เราเลือกใช้ก็คือ [Firebase](https://firebase.google.com/)
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+โดยในโปรเจคนี้ทำให้ผมได้รู้ว่ามีบริการ Google API หลายตัวที่น่าสนใจ
