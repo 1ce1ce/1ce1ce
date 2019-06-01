@@ -2,16 +2,14 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: แอพสุ่มเมนูด้วยการเขย่า
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - MIT App Invertor
+  - Firebase
+summary: สร้างแอพพลิเคชั่นสุ่มรายการอาหารด้วยการเขย่า โดยใช้ MIT App Invertor
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
