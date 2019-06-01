@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/vcaption-square.png
 title: Online Caption Editor
-permalink: projects/micromouse
+permalink: projects/vcaption-editor
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
