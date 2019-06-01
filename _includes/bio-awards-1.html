@@ -18,9 +18,11 @@
       </div>
       <div class="four wide right aligned column no-bottom">
           <p class="ui no-bottom"><b>
-            <a class="ui button" href="../images/rewards/{{entry.image}}">
-              Preview
-            </a>
+            {% if entry.image != blank %}
+              <a class="ui button" href="../images/rewards/{{entry.image}}">
+                Preview
+              </a>
+            {% endif %}
             <!-- {% include lightbox.html src="../images/molly.png" data="group" title="Sample Title" %} -->
           </b></p>
         </div>
