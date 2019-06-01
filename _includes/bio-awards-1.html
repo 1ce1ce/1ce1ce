@@ -21,7 +21,7 @@
             <!-- <button class="ui button">
               Preview
             </button> -->
-            <a href="{{ site.github.url }}/assets/img/{{ include.src }}" data-lightbox="{{ include.data }}" data-title="{{ include.title }}"><img src="{{ site.github.url }}/assets/img/{{ include.src }}" alt="{{ include.title }}"/></a>
+            {% include lightbox.html src="image.jpg" data="group" title="Sample Title" %}
             {% include lightbox.html src="https://techfolios.github.io/template/images/molly.png" data="group" title="Sample Title" %}
           </b></p>
         </div>
