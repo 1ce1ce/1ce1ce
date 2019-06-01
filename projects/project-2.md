@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: แอพสุ่มเมนูด้วยการเขย่า
+image: images/app-square.png
+title: แอพสุ่มรายการอาหาร
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-12-15
 labels:
   - MIT App Invertor
   - Firebase
