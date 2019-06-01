@@ -12,7 +12,7 @@ labels:
 summary: สร้างแอพพลิเคชั่นสุ่มรายการอาหารด้วยการเขย่า โดยใช้ MIT App Invertor
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/preview-page.png">
 
 แอพสุ่มรายการอาหารเป็นโปรเจคในช่วงผมศึกษาอยู่ชั้นปีที่ 2 โดย หัวขอคือสร้างแอพลิเคชั่นบนโทรศัพท์มือถืออะไรก็ได้ โดยใช้ [MIT App Invertor](https://appinventor.mit.edu/)
 
