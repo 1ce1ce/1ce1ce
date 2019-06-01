@@ -8,11 +8,11 @@
     "website": "https://1ce1ce.github.io",
     "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
     "location": {
-      "address": "114/355",
+      "address": "114/355 จ.ปทุมธานี อ.ธัญบุรี ต.ลำผักกูด หมู่.1",
       "postalCode": "12110",
-      "city": "Honolulu",
+      "city": "",
       "countryCode": "TH",
-      "region": "Hawaii"
+      "region": ""
     },
     "profiles": [
       {
@@ -95,7 +95,7 @@
       "area": "Information Technology",
       "studyType": "B.S.",
       "startDate": "2015-09-01",
-      "endDate": "2018-04-30",
+      "endDate": "2019-04-30",
       "gpa": "3.36",
       "courses": [
       ]
@@ -108,11 +108,11 @@
       "website": "http://www.softsquaregroup.com",
       "startDate": "2018-05-01",
       "endDate": "2018-9-01",
-      "summary": "รับหน้าที่เป็นโปรแกรมเมอร์ในการพัฒนาพัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
+      "summary": "รับหน้าที่เป็นโปรแกรมเมอร์ในการพัฒนาเว็บแอพพลิเคชั่นตามโครงสร้างที่กำหนดมาในแต่ละโปรเจค โดยใช้ภาษาต่างๆตามที่กำหนด",
       "highlights": [
         "พัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
         "Font-end : Angular, Vue, Metarial UI",
-        "Backend: Java, Spring Framwork, C#",
+        "Backend: Java, Spring Framwork, C#, Node.js",
         "Database: PostgreSQL, Oracle",
         "Tool: Git, SVN, Eclipse, Visual Studio Code"
       ]
