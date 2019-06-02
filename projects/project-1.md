@@ -5,7 +5,7 @@ image: images/vcaption-square.png
 title: Online Caption Editor
 permalink: projects/vcaption-editor
 # All dates must be YYYY-MM-DD format!
-date: 2018-07-01
+date: 2018-08-01
 labels:
   - Vue.js
   - MongoDB
