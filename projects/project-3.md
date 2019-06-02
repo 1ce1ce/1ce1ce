@@ -15,6 +15,27 @@ summary: เว็บไซต์.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
+<div class="ui small rounded images">
+  <a href="../images/vcaption/vcaption-register.png">
+    <img class="ui image" src="../images/otakudrive-2014/0001.png">
+  </a>
+  <a href="../images/vcaption/vcaption-project-list.png">
+    <img class="ui image" src="../images/otakudrive-2014/0002.png">  
+  </a>
+  <a href="../images/vcaption/vcaption-main.png">
+    <img class="ui image" src="../images/otakudrive-2014/0003.png">
+  </a>
+  <a href="../images/vcaption/vcaption-view.png">
+    <img class="ui image" src="../images/otakudrive-2014/0004.png">
+  </a>
+  <a href="../images/vcaption/vcaption-style-setting.png">
+    <img class="ui image" src="../images/otakudrive-2014/0005.png">
+  </a>
+  <a href="../images/vcaption/vcaption-share.png">
+    <img class="ui image" src="../images/otakudrive-2014/0006.png">
+  </a>
+</div>
+
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 To give you a flavor of the game, here is an excerpt from one run:
