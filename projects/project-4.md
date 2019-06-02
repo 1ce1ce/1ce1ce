@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/intership/soft-square.jpg
+image: images/soft-square.jpg
 title: Project Intership 2018
 permalink: projects/project-intership
 # All dates must be YYYY-MM-DD format!
