@@ -38,7 +38,8 @@ summary: เว็บไซต์.
 </div>
 
 ### ฟังชั่นการทำงานต่างๆของตัวระบบ
-  
+  ระบบเขียนขึ้นโดยใช้ PHP version 5 และใช้ฐานข้อมูล MySQL เป็นหลักในส่วนของหน้าเว็บผมได้ใช้ JQuery เข้ามาช่วยในการจัดการ Javascript ต่างๆ โดยสามารถแบ่งส่วนของฟังชั่นการทำงานของระบบได้ดังนี้
+
 #### หน้าบ้าน
   * Landing Page
   * Search Autocomplate
@@ -54,6 +55,10 @@ summary: เว็บไซต์.
   * Role Managemant
   * Content Managemant
   * Template Management
+
+#### Google Analysis
+<img class="ui image" src="{{ site.baseurl }}/images/google-analysis.png">
+
 
 เว็บไซต์ ที่รวมเนื้อหาเกี่ยวกับมังงะและอนิเมะของญี่ปุ่น โดยผมเริ่มผมเริ่มทำเมื่อปี 2014 - 2016 โดยจดชื่อโดเมนว่า [www.otakudrive.com](http://landoflisp.com) แต่ก็น่าเสียดายที่ต้องปิดตัวลงในปี 2016 เนื้อจากปัญหาต่างๆ เนื่องจากตอนนั้นผมเข้ามหาลัยใหม่ๆ เลยไม่มีเวลาลงเนื้อหาของเว้บไซต์
 
