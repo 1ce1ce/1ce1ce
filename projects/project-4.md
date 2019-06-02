@@ -55,6 +55,9 @@ summary: เว็บไซต์ที่รวบรวมเนื้อห�
   * Template Management
   * Get Picasa Link by CURL
 
+[(PDF)](https://drive.google.com/file/d/16wzYCZ-Neg2b-aPMZSL0ZdmTTDKeSX67/view?usp=sharing) สงวนสิทธิ์ภาพเนื้อหาของตัวโปรเจคในบทที่ 4 ออกทั้งหมด เนื่องจากเป็นไปตามข้อกำหนดของบริษัท
+
+
 #### Google Analysis
 <img class="ui image" src="{{ site.baseurl }}/images/otakudrive-2014/google-analysis.jpg">
 
