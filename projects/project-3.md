@@ -11,10 +11,8 @@ labels:
   - MySQL
   - JQuery
   - Bootstrap
-summary: เว็บไซต์.
+summary: เว็บไซต์ที่รวบรวมเนื้อหาเกี่ยวกับมังงะและอนิเมะของประเทศญี่ปุ่น.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 <div class="ui small rounded images">
   <a href="../images/otakudrive-2014/full-0001.png">
@@ -55,18 +53,16 @@ summary: เว็บไซต์.
   * Role Managemant
   * Content Managemant
   * Template Management
+  * Get Picasa Link by CURL
 
 #### Google Analysis
 <img class="ui image" src="{{ site.baseurl }}/images/otakudrive-2014/google-analysis.jpg">
 
-เว็บไซต์ ที่รวมเนื้อหาเกี่ยวกับมังงะ [(漫画)](https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B0) และอนิเมะ [(アニメ)](https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0) ของญี่ปุ่น โดยผมเริ่มผมเริ่มทำเมื่อปี 2014 - 2016 โดยจดชื่อโดเมนว่า [www.otakudrive.com](http://landoflisp.com) แต่ก็น่าเสียดายที่ต้องปิดตัวลงในปี 2016 เนื้อจากปัญหาต่างๆ เนื่องจากตอนนั้นผมเข้ามหาลัยใหม่ๆ เลยไม่มีเวลาลงเนื้อหาของเว้บไซต์
+เว็บไซต์ ที่รวบรวมเนื้อหาเกี่ยวกับมังงะ [(漫画)](https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B0) และอนิเมะ [(アニメ)](https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0) ของประเทศญี่ปุ่น โดยผมเริ่มทำโปรเจคเมื่อกลางปีต้นปี 2014 แล้วได้เปิดใช้งานตั้งแต่ปี 2014 - 2016 โดยจดชื่อโดเมนว่า [www.otakudrive.com](http://landoflisp.com) แต่ก็น่าเสียดายที่ต้องปิดตัวลงในปี 2016 เนื้อจากปัญหาต่างๆ เนื่องจากตอนนั้นผมเข้ามหาลัยใหม่ๆ เลยไม่มีเวลาลงเนื้อหาของเว็บไซต์
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
+โดยเว็บไซต์นี้ได้มอบประสบการณ์ความรู้ใหม่ๆนอกเหนือจากการเขียนโปรแกรมให้กับผม เช่น การใช้งานใช้งาน Direct Admin, การใช้ FTP และ SFTP, การสร้าง Sub Domain, การใช้ระบบปฎิบัติการใหม่ที่นอกเหนือไปจาก Window อย่าง ubuntu 
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/jokerrider007"><i class="large github icon "></i>jokerrider007</a>
 
