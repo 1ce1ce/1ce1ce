@@ -96,6 +96,16 @@
       "gpa": "3.36",
       "courses": [
       ]
+    },
+    {
+      "institution": "Rajamangala University of Technology Thanyaburi",
+      "area": "Data Science",
+      "studyType": "M.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
     }
   ],
   "work": [
@@ -133,19 +143,6 @@
       "endDate": "2019-02-01",
       "summary": "ทำ Senior Project พัฒนาเว็บแอพพลิเคชั่นระบบจัดการคำบรรยายออนไลน์",
       "highlights": []
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
