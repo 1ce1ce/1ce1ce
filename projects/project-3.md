@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: OTAKUDRIVE 2015
-permalink: projects/cotton
+image: images/otakudrive-square.png
+title: OTAKUDRIVE 2014
+permalink: projects/otakudrive-2014
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
@@ -16,23 +16,23 @@ summary: เว็บไซต์.
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 <div class="ui small rounded images">
-  <a href="../images/vcaption/vcaption-register.png">
-    <img class="ui image" src="../images/otakudrive-2014/0001.png">
+  <a href="../images/otakudrive/full-0001.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0001.png">
   </a>
-  <a href="../images/vcaption/vcaption-project-list.png">
-    <img class="ui image" src="../images/otakudrive-2014/0002.png">  
+  <a href="../images/otakudrive/full-0002.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0002.png">  
   </a>
-  <a href="../images/vcaption/vcaption-main.png">
-    <img class="ui image" src="../images/otakudrive-2014/0003.png">
+  <a href="../images/otakudrive/full-0003.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0003.png">
   </a>
-  <a href="../images/vcaption/vcaption-view.png">
-    <img class="ui image" src="../images/otakudrive-2014/0004.png">
+  <a href="../images/otakudrive/full-0004.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0004.png">
   </a>
-  <a href="../images/vcaption/vcaption-style-setting.png">
-    <img class="ui image" src="../images/otakudrive-2014/0005.png">
+  <a href="../images/otakudrive/full-0005.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0005.png">
   </a>
-  <a href="../images/vcaption/vcaption-share.png">
-    <img class="ui image" src="../images/otakudrive-2014/0006.png">
+  <a href="../images/otakudrive/full-0006.png">
+    <img class="ui image" src="../images/otakudrive-2014/thumbnail-0006.png">
   </a>
 </div>
 
