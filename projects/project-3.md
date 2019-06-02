@@ -57,8 +57,7 @@ summary: เว็บไซต์.
   * Template Management
 
 #### Google Analysis
-<img class="ui image" src="{{ site.baseurl }}/images/otakudrive-2014/google-analysis.png">
-
+<img class="ui image" src="{{ site.baseurl }}/images/otakudrive-2014/google-analysis.jpg">
 
 เว็บไซต์ ที่รวมเนื้อหาเกี่ยวกับมังงะ [(漫画)](https://th.wikipedia.org/wiki/%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B0) และอนิเมะ [(アニメ)](https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A1%E0%B8%B0) ของญี่ปุ่น โดยผมเริ่มผมเริ่มทำเมื่อปี 2014 - 2016 โดยจดชื่อโดเมนว่า [www.otakudrive.com](http://landoflisp.com) แต่ก็น่าเสียดายที่ต้องปิดตัวลงในปี 2016 เนื้อจากปัญหาต่างๆ เนื่องจากตอนนั้นผมเข้ามหาลัยใหม่ๆ เลยไม่มีเวลาลงเนื้อหาของเว้บไซต์
 
