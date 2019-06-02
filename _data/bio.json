@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "trirat.tremsuntia.1997@gmail.com",
-    "phone": "084-2445128",
+    "phone": "",
     "website": "https://1ce1ce.github.io",
     "summary": "I am graduated for a B.S. in Information Technology in the Department of Information and Computer Sciences at the Rajamangala University of Technology Thanyaburi.",
     "location": {
@@ -19,11 +19,6 @@
         "network": "github",
         "username": "1ce1ce",
         "url": "http://github.com/1ce1ce"
-      },
-      {
-        "network": "twitter",
-        "username": "1ce1ce",
-        "url": "http://twitter.com/changeme"
       },
       {
         "network": "facebook",
