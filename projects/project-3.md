@@ -39,21 +39,21 @@ summary: เว็บไซต์.
 
 ### ฟังชั่นการทำงานต่างๆของตัวระบบ
   
-  #### หน้าบ้าน
-  > * Landing Page
-  > * Search Autocomplate
-  > * Content Lists
-  > * Content Rating
-  > * Bookmark
-  > * Notification
-  > * Login
+#### หน้าบ้าน
+  * Landing Page
+  * Search Autocomplate
+  * Content Lists
+  * Content Rating
+  * Bookmark
+  * Notification
+  * Login
 
-  #### หลังบ้าน
-  > * SEO Managemant
-  > * RSS Managemant
-  > * Role Managemant
-  > * Content Managemant
-  > * Template Management
+#### หลังบ้าน
+  * SEO Managemant
+  * RSS Managemant
+  * Role Managemant
+  * Content Managemant
+  * Template Management
 
 เว็บไซต์ ที่รวมเนื้อหาเกี่ยวกับมังงะและอนิเมะของญี่ปุ่น โดยผมเริ่มผมเริ่มทำเมื่อปี 2014 - 2016 โดยจดชื่อโดเมนว่า [www.otakudrive.com](http://landoflisp.com) แต่ก็น่าเสียดายที่ต้องปิดตัวลงในปี 2016 เนื้อจากปัญหาต่างๆ เนื่องจากตอนนั้นผมเข้ามหาลัยใหม่ๆ เลยไม่มีเวลาลงเนื้อหาของเว้บไซต์
 
