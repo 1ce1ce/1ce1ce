@@ -16,22 +16,22 @@ summary: เว็บไซต์.
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 <div class="ui small rounded images">
-  <a href="../images/otakudrive/full-0001.png">
+  <a href="../images/otakudrive-2014/full-0001.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0001.png">
   </a>
-  <a href="../images/otakudrive/full-0002.png">
+  <a href="../images/otakudrive-2014/full-0002.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0002.png">  
   </a>
-  <a href="../images/otakudrive/full-0003.png">
+  <a href="../images/otakudrive-2014/full-0003.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0003.png">
   </a>
-  <a href="../images/otakudrive/full-0004.png">
+  <a href="../images/otakudrive-2014/full-0004.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0004.png">
   </a>
-  <a href="../images/otakudrive/full-0005.png">
+  <a href="../images/otakudrive-2014/full-0005.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0005.png">
   </a>
-  <a href="../images/otakudrive/full-0006.png">
+  <a href="../images/otakudrive-2014/full-0006.png">
     <img class="ui image" src="../images/otakudrive-2014/thumbnail-0006.png">
   </a>
 </div>
