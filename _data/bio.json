@@ -117,16 +117,22 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "organization": "",
+      "website": "http://www.otakudrive.com",
+      "position": "Web developer",
+      "startDate": "2014-01-01",
+      "endDate": "2016-01-01",
+      "summary": "พัฒนาเว็บไซต์ที่รวบรวมเนื้อหาเกี่ยวกับมังงะและอนิเมะของประเทศญี่ปุ่น",
+      "highlights": []
+    },
+    {
+      "organization": "Online Caption Editor",
+      "website": "",
+      "position": "Web developer",
+      "startDate": "2018-01-01",
+      "endDate": "2019-02-01",
+      "summary": "ทำ Senior Project พัฒนาเว็บแอพพลิเคชั่นระบบจัดการคำบรรยายออนไลน์",
+      "highlights": []
     },
     {
       "organization": "",
