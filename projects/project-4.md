@@ -5,7 +5,7 @@ image: images/soft-square.jpg
 title: Project Intership 2018
 permalink: projects/project-intership
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-12
+date: 2018-05-12
 labels:
   - Intership
 summary: สหกิจศึกษา ณ บริษัท ซอฟต์สแควร์ อินเตอร์เนชั่นแนล จำกัด ทางบริษัทได้มอบหมายให้ปฏิบัติงานตำแหน่ง Trainee Developer
