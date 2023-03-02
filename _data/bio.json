@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Trirat Tremsuntia",
-    "label": "Student",
+    "name": "Trairatana Termsanthia",
+    "label": "Application Developer",
     "picture": "https://1ce1ce.github.io/images/avatar.jpg",
-    "email": "trirat.tremsuntia.1997@gmail.com",
+    "email": "trairatana.termsanthia@gmail.com",
     "phone": "",
     "website": "https://1ce1ce.github.io",
     "summary": "จบการศึกษาระดับปริญญาตรี วิทยาศาสตร์บัณฑิต จากมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี คณะวิทยาศาสตร์และเทคโนโลยี สาขาเทคโนโลยีสารสนเทศ ปัจจุบันกำลังศึกษาต่อ สาขาวิทยาการข้อมูลและสารสนเทศ",
@@ -27,8 +27,8 @@
       },
       {
         "network": "facebook",
-        "username": "Trirat Tremsuntia",
-        "url": "http://facebook.com/trirat.tremsuntia"
+        "username": "Trairatana Termsanthia",
+        "url": "https://www.facebook.com/triratana.termsanthai/"
       }
     ]
   },
@@ -43,6 +43,11 @@
       "keywords": [
         "Arduino",
         "Raspberry Pi 3"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
       ]
     },
     {
@@ -67,14 +72,18 @@
         "Javascript",
         "PHP",
         "Python",
+        "Golang",
+        "Kotlin",
         "MySQL",
         "PostgreSQL",
         "NoSQL",
         "Angular",
         "Vue",
+        "Spring",
         "Meteor",
         "Laravel",
-        "CodeIgniter"
+        "CodeIgniter",
+        "Node.js"
       ]
     },
     {
@@ -83,8 +92,12 @@
       "keywords": [
         "Windows",
         "Ubuntu",
+        "Elasticsearch",
+        "Hadoop",
         "Git/GitHub",
         "SVN",
+        "K8S",
+        "Docker",
         "Debian",
         "AWS",
         "GCP"
@@ -107,13 +120,29 @@
       "area": "Data Science",
       "studyType": "M.S.",
       "startDate": "2019-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2021-11-9",
+      "gpa": "4.00",
       "courses": [
       ]
     }
   ],
   "work": [
+    {
+      "company": "Control Data (Thailand) Ltd.",
+      "position": "Application Developer",
+      "website": "https://www.cdg.co.th",
+      "startDate": "2019-05-01",
+      "endDate": "Present",
+      "summary": "รับหน้าที่เป็นโปรแกรมเมอร์ในการพัฒนาเว็บแอพพลิเคชั่นตามโครงสร้างที่กำหนดมาในแต่ละโปรเจค โดยใช้ภาษาต่างๆตามที่กำหนด",
+      "highlights": [
+        "พัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
+        "Font-end : Vue, Material UI, Vuetify, Flutter, Dart, Javascript, HTML/CSS",
+        "Backend: Kotlin, Spring Framework, C#, Javascript, Express.js, Node.js, Python, Django",
+        "Database: Oracle, MariaDB, MongoDB",
+        "Tool: Git, Visual Studio Code, Visual Studio, SonarQube, Docker, CI/CD",
+        "Hardware: Card printer, Finger Scanner, Smart card reader, Document scanner, Camera"
+      ]
+    },
     {
       "company": "Soft Square Group Of Company",
       "position": "Web Developer",
@@ -123,8 +152,8 @@
       "summary": "รับหน้าที่เป็นโปรแกรมเมอร์ในการพัฒนาเว็บแอพพลิเคชั่นตามโครงสร้างที่กำหนดมาในแต่ละโปรเจค โดยใช้ภาษาต่างๆตามที่กำหนด",
       "highlights": [
         "พัฒนาเว็บแอพพลิเคชั่น โดยใช้ภาษาต่างๆ",
-        "Font-end : Angular, Vue, Metarial UI",
-        "Backend: Java, Spring Framwork, C#, Node.js",
+        "Font-end : Angular, Vue, Material UI",
+        "Backend: Java, Spring Framework, C#, Node.js",
         "Database: PostgreSQL, Oracle",
         "Tool: Git, SVN, Eclipse, Visual Studio Code"
       ]
