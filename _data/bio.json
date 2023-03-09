@@ -6,7 +6,7 @@
     "email": "trairatana.termsanthia@gmail.com",
     "phone": "",
     "website": "https://1ce1ce.github.io",
-    "summary": "จบการศึกษาระดับปริญญาตรี วิทยาศาสตร์บัณฑิต จากมหาวิทยาลัยเทคโนโลยีราชมงคลธัญบุรี คณะวิทยาศาสตร์และเทคโนโลยี สาขาเทคโนโลยีสารสนเทศ ปัจจุบันกำลังศึกษาต่อ สาขาวิทยาการข้อมูลและสารสนเทศ",
+    "summary": "สวัสดีครับ ไอซ์ ไตรรัตน เติมสันเทียะ จบการศึกษาจากมหาวิทยาลัยราชมงคลธัญบุรี ระดับปริญญาตรี คณะวิทยาศาสตร์ สาขาเทคโนโลยีสารสนเทศ (Information Technology) และ ระดับปริญญาโท คณะวิทยาศาสตร์ สาขาวิทยาการข้อมูลและสารสนเทศ (Data Science) ปัจจุบบันทำงานเป็น AppDev พัฒนาระบบที่มีความเกี่ยวข้องกับข้อมูล Biometric ลายนื่วมือ และใบหน้า รวมไปถึงการติดต่อฮาร์ดแวร์ต่าง ๆ ที่ใช้ในระบบบัตรประชาชน มีความสนใจในด้านการเขียนโปรแกรม (Programing) และกระบวนการเรียนรู้ของเครื่อง (Machine Learning)",
     "location": {
       "address": "114/355 อ.ธัญบุรี ต.ลำผักกูด หมู่.1",
       "postalCode": "12110",
@@ -34,29 +34,34 @@
   },
   "interests": [
     {
-      "name": "web application",
+      "name": "Application development",
       "keywords": [
       ]
     },
     {
-      "name": "internet of things",
+      "name": "Blockchain",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Internet of things",
       "keywords": [
         "Arduino",
         "Raspberry Pi 3"
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Machine learning",
       "keywords": [
       ]
     },
     {
-      "name": "big data",
+      "name": "Big data",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial intelligence",
       "keywords": [
       ]
     }

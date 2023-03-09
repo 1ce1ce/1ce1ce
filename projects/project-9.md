@@ -1,29 +1,36 @@
 ---
 layout: project
 type: project
-image: images/d-dopa-square.png
-title: D-DOPA
-permalink: projects/d-dopa-cdg
+image: images/blockchain/1.jpg
+title: Full Stack Blockchain Developer Workshop.
+permalink: projects/blockchain-workshop
 # All dates must be YYYY-MM-DD format!
-date: 2021-10-12
+date: 2022-09-11
 labels:
-  - Work
-  - CDG
-  - D.DOPA
-  - Digital ID
-  - Flutter
-  - Image Processing
-summary: ร่วมพัฒนาในโครงการยืนยันตัวตนด้วยข้อมูลดิจิทอลด้วยการใช้ Digital ID ให้กับกรมการปกครอง
+  - Workshop
+  - Training
+  - Blockchain
+  - Web 3.0
+summary: เข้าร่วมการอบรมการพัฒนาเว็บแอพพลิเคชั่นด้วยเทคโนโลยี Blockchain
 ---
 
-<img class="ui big centered rounded image" src="../images/d-dopa/img-1.jpg">
+<img class="ui big centered rounded image" src="../images/blockchain/2.jpg">
 
-ร่วมพัฒนาในโครงการ Digital ID ให้กับกรมการปกครอง เพื่อขับเคลื่อนโครงการพัฒนาระบบการพิสูจน์และยืนยันตัวตนทางดิจิทัล (DOPA-Digital ID) เพื่อสร้างต้นแบบและนวัตกรรมใหม่ในการพิสูจน์และยืนยันตัวตนทางดิจิทัลของประเทศรองรับการใช้งานบริการภาครัฐ
-
+เข้าร่วมการอบรมการพัฒนาเว็บแอพพลิเคชั่นด้วยเทคโนโลยี Blockchain จากการทำ Workshop เว็บแอพพลิเคชั่นการออกใบ Certificate ด้วย OpenCert Concept สำหรับการออกใบประกาศโดยการจำลองการทำงานผ่านเว็บแอพพลิเคชั่นในการออกใบประกาศและเรียกดูข้อมูลบน Etherime Rinkerby Test Network.
 
 ## ตัวอย่าง
 
-<div class="ui centered" style="text-align:center;">
-  <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdopafanpage%2Fvideos%2F319163902833233%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true">
-  </iframe>
+<div class="ui small rounded centered images">
+  <a href="../images/blockchain/3.jpg">
+    <img class="ui image" src="../images/blockchain/3.jpg">
+  </a>
+  <a href="../images/blockchain/4.jpg">
+    <img class="ui image" src="../images/blockchain/4.jpg">
+  </a>
+  <a href="../images/blockchain/5.jpg">
+    <img class="ui image" src="../images/blockchain/5.jpg">
+  </a>
+  <a href="../images/blockchain/6.jpg">
+    <img class="ui image" src="../images/blockchain/6.jpg">
+  </a>
 </div>
